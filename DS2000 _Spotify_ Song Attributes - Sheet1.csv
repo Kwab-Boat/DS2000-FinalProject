@@ -1,0 +1,151 @@
+Artist,Genre,Track #,Track Name,Danceability,Acousticness,Instrumentalness,Speechiness
+Lady Gaga,Pop,1,Fever Dream,0.85,0.12,0.01,0.05
+Lady Gaga,Pop,2,Digital Love,0.78,0.2,0,0.07
+Lady Gaga,Pop,3,Chromatic Virus,0.82,0.05,0.02,0.04
+Lady Gaga,Pop,4,Neon Blood,0.75,0.15,0,0.06
+Lady Gaga,Pop,5,Heart Rate 180,0.9,0.08,0,0.03
+Lady Gaga,Pop,6,Cybernetic Pulse,0.88,0.03,0.04,0.02
+Lady Gaga,Pop,7,Viral Seduction,0.8,0.18,0,0.08
+Lady Gaga,Pop,8,Toxic Algorithm,0.72,0.1,0.02,0.05
+Lady Gaga,Pop,9,Electro Fever,0.85,0.07,0,0.06
+Lady Gaga,Pop,10,Synaptic Fire,0.79,0.22,0,0.07
+Lady Gaga,Pop,11,Pandemic Pop,0.83,0.12,0.01,0.04
+Lady Gaga,Pop,12,Contagious Groove,0.87,0.05,0,0.03
+Lady Gaga,Pop,13,Fever Pitch,0.81,0.16,0.01,0.06
+Lady Gaga,Pop,14,Code Red Romance,0.76,0.2,0,0.07
+Lady Gaga,Pop,15,Love in Lockdown,0.74,0.3,0,0.1
+Lady Gaga,Pop,16,Electric Infection,0.86,0.1,0.01,0.05
+Lady Gaga,Pop,17,The Cure for You,0.7,0.35,0,0.12
+Lady Gaga,Pop,18,Mutated Melody,0.79,0.14,0.01,0.08
+Lady Gaga,Pop,19,Digital Immunity,0.88,0.05,0,0.03
+Lady Gaga,Pop,20,Synthwave Syndrome,0.83,0.18,0,0.07
+Lady Gaga,Pop,21,Fever Frequency,0.85,0.08,0.01,0.04
+Lady Gaga,Pop,22,Viral Sensation,0.78,0.12,0,0.06
+Lady Gaga,Pop,23,Neon Outbreak,0.82,0.1,0.01,0.05
+Lady Gaga,Pop,24,Genetic Harmony,0.77,0.22,0,0.09
+Lady Gaga,Pop,25,Love Is the Antibody,0.73,0.28,0,0.11
+Luke Combs,Country,1,Beer on a Backroad,0.55,0.38,0.02,0.04
+Luke Combs,Country,2,Small Town Friday Night,0.62,0.3,0.01,0.05
+Luke Combs,Country,3,Whiskey and You,0.43,0.72,0,0.03
+Luke Combs,Country,4,My Kind of Crazy,0.6,0.41,0.02,0.06
+Luke Combs,Country,5,Sunrise Over Fields,0.35,0.85,0.1,0.02
+Luke Combs,Country,6,Heartbreak Highway,0.48,0.5,0,0.04
+Luke Combs,Country,7,Carolina Nights,0.58,0.4,0.03,0.05
+Luke Combs,Country,8,Dust and Dreams,0.4,0.78,0.08,0.03
+Luke Combs,Country,9,Love You Like That,0.64,0.29,0.01,0.05
+Luke Combs,Country,10,Porch Light Serenade,0.38,0.9,0.12,0.02
+Luke Combs,Country,11,This One’s for You,0.52,0.35,0,0.04
+Luke Combs,Country,12,Tennessee Skies,0.44,0.67,0.04,0.03
+Luke Combs,Country,13,Barstool Memories,0.5,0.46,0.01,0.05
+Luke Combs,Country,14,Ain’t Goin' Down Easy,0.61,0.33,0,0.06
+Luke Combs,Country,15,Gravel Road Gospel,0.36,0.82,0.09,0.03
+Luke Combs,Country,16,Just Another Day in Heaven,0.47,0.58,0,0.04
+Luke Combs,Country,17,Southern Rain,0.49,0.61,0.02,0.04
+Luke Combs,Country,18,Shotgun Seat Love Song,0.59,0.37,0.01,0.05
+Luke Combs,Country,19,Backroad Summer,0.65,0.26,0,0.06
+Luke Combs,Country,20,Rusty Strings,0.41,0.77,0.07,0.02
+Luke Combs,Country,21,She’s Whiskey Sweet,0.53,0.44,0,0.04
+Luke Combs,Country,22,Long Haul Love,0.46,0.63,0.03,0.03
+Luke Combs,Country,23,Moonshine in Mason Jars,0.57,0.39,0.02,0.05
+Luke Combs,Country,24,Goodbye Ain’t Easy,0.42,0.7,0,0.03
+Luke Combs,Country,25,Homegrown Heart,0.51,0.49,0.01,0.04
+Bad Bunny,Reggaeton,1,Noche Sin Luna,0.87,0.15,0.01,0.12
+Bad Bunny,Reggaeton,2,Fuego Lento,0.81,0.12,0,0.1
+Bad Bunny,Reggaeton,3,Ritmo Salvaje,0.91,0.1,0.02,0.14
+Bad Bunny,Reggaeton,4,Playa y Arena,0.84,0.18,0.01,0.09
+Bad Bunny,Reggaeton,5,La Nota Se Sube,0.89,0.08,0,0.11
+Bad Bunny,Reggaeton,6,Lento Pero Seguro,0.75,0.22,0.03,0.13
+Bad Bunny,Reggaeton,7,Te Pienso A Veces,0.79,0.19,0,0.08
+Bad Bunny,Reggaeton,8,Sin Ropa,0.83,0.14,0.01,0.15
+Bad Bunny,Reggaeton,9,Perreo Fantasma,0.92,0.05,0,0.18
+Bad Bunny,Reggaeton,10,Callejón Oscuro,0.76,0.25,0.04,0.12
+Bad Bunny,Reggaeton,11,Cuando Me Llamas,0.82,0.17,0,0.09
+Bad Bunny,Reggaeton,12,Vamo' Allá,0.95,0.06,0,0.16
+Bad Bunny,Reggaeton,13,Todo Cambió,0.78,0.21,0.01,0.1
+Bad Bunny,Reggaeton,14,Pegao A Ti,0.88,0.13,0,0.14
+Bad Bunny,Reggaeton,15,Fantasía Nocturna,0.74,0.28,0.05,0.11
+Bad Bunny,Reggaeton,16,Caricias A Escondidas,0.81,0.16,0,0.12
+Bad Bunny,Reggaeton,17,Sube El Bajo,0.9,0.09,0,0.17
+Bad Bunny,Reggaeton,18,Dime Que Sí,0.79,0.2,0.01,0.09
+Bad Bunny,Reggaeton,19,Ven Pa' Mi Casa,0.85,0.12,0,0.1
+Bad Bunny,Reggaeton,20,Noche de Verano,0.88,0.11,0,0.13
+Bad Bunny,Reggaeton,21,Sudor y Calor,0.91,0.07,0,0.15
+Bad Bunny,Reggaeton,22,Rompe la Pista,0.93,0.04,0,0.18
+Bad Bunny,Reggaeton,23,No Me Olvides,0.77,0.23,0.02,0.11
+Bad Bunny,Reggaeton,24,Desvelo,0.8,0.19,0.01,0.09
+Bad Bunny,Reggaeton,25,Hasta el Amanecer,0.86,0.15,0,0.12
+Avicii,House,1,Midnight Anthem,0.9,0.05,0.2,0.04
+Avicii,House,2,Sunset Rush,0.88,0.06,0.18,0.03
+Avicii,House,3,Euphoric Skies,0.91,0.04,0.25,0.02
+Avicii,House,4,Neon Reverie,0.87,0.07,0.15,0.05
+Avicii,House,5,Electric Tide,0.85,0.08,0.12,0.04
+Avicii,House,6,Lost in the Drop,0.93,0.02,0.3,0.02
+Avicii,House,7,Pulse of the Night,0.89,0.05,0.2,0.03
+Avicii,House,8,Golden Waves,0.86,0.1,0.1,0.06
+Avicii,House,9,Lightstorm,0.92,0.03,0.28,0.02
+Avicii,House,10,Skylight Mirage,0.84,0.09,0.08,0.07
+Avicii,House,11,Echoes of Tomorrow,0.91,0.04,0.24,0.03
+Avicii,House,12,Sonic Escape,0.88,0.06,0.22,0.03
+Avicii,House,13,Gravity Groove,0.9,0.05,0.18,0.04
+Avicii,House,14,Rhythm Surge,0.85,0.07,0.14,0.05
+Avicii,House,15,Afterglow Dreams,0.86,0.09,0.12,0.06
+Avicii,House,16,Starlit Drops,0.89,0.05,0.21,0.04
+Avicii,House,17,Future Horizon,0.91,0.04,0.26,0.02
+Avicii,House,18,Ocean Pulse,0.87,0.08,0.16,0.05
+Avicii,House,19,Dreamcatcher Bass,0.92,0.03,0.3,0.02
+Avicii,House,20,Digital Sunset,0.9,0.06,0.2,0.04
+Avicii,House,21,Serenity Beat,0.86,0.07,0.13,0.05
+Avicii,House,22,Skyborn Rush,0.91,0.05,0.27,0.03
+Avicii,House,23,Celestial Motion,0.89,0.06,0.18,0.04
+Avicii,House,24,Infinite Waves,0.87,0.09,0.12,0.06
+Avicii,House,25,Last Light Anthem,0.92,0.03,0.29,0.02
+Drake,R&B,1,CN TOWER,0.75,0.2,0.29,0.35
+Drake,R&B,2,MOTH BALLS,0.72,0.18,0.09,0.3
+Drake,R&B,3,SOMETHING ABOUT YOU,0.7,0.22,0.28,0.28
+Drake,R&B,4,CRYING IN CHANEL,0.68,0.25,0.17,0.32
+Drake,R&B,5,SPIDER-MAN SUPERMAN,0.74,0.15,0.11,0.29
+Drake,R&B,6,DEEPER,0.65,0.3,0.16,0.27
+Drake,R&B,7,SMALL TOWN FAME,0.7,0.2,0.3,0.33
+Drake,R&B,8,PIMMIE'S DILEMMA,0.6,0.35,0.17,0.25
+Drake,R&B,9,BRIAN STEEL,0.66,0.22,0.13,0.31
+Drake,R&B,10,GIMME A HUG,0.75,0.18,0.21,0.34
+Drake,R&B,11,RAINING IN HOUSTON,0.64,0.28,0.11,0.26
+Drake,R&B,12,LASERS,0.73,0.16,0.07,0.3
+Drake,R&B,13,MEET YOUR PADRE,0.69,0.24,0.08,0.32
+Drake,R&B,14,NOKIA,0.78,0.12,0.08,0.36
+Drake,R&B,15,DIE TRYING,0.62,0.3,0.09,0.28
+Drake,R&B,16,SOMEBODY LOVES ME,0.7,0.2,0.08,0.29
+Drake,R&B,17,CELIBACY,0.65,0.25,0.21,0.31
+Drake,R&B,18,OMW,0.68,0.22,0.1,0.27
+Drake,R&B,19,GLORIOUS,0.71,0.19,0.14,0.33
+Drake,R&B,20,GREEDY,0.67,0.26,0.27,0.3
+Drake,R&B,21,AFTER HOURS,0.74,0.15,0.17,0.29
+Drake,R&B,22,LATE NIGHT TEXTS,0.69,0.23,0.22,0.31
+Drake,R&B,23,VELVET SKY,0.63,0.29,0.09,0.26
+Drake,R&B,24,INTOXICATED,0.72,0.17,0.1,0.34
+Drake,R&B,25,UNFINISHED BUSINESS,0.66,0.21,0.06,0.32
+Taylor Swift,Folk,1,Cardigan,0.58,0.6,0.02,0.04
+Taylor Swift,Folk,2,Willow,0.65,0.4,0.01,0.03
+Taylor Swift,Folk,3,Exile (feat. Bon Iver),0.5,0.75,0.03,0.04
+Taylor Swift,Folk,4,August,0.68,0.5,0.01,0.03
+Taylor Swift,Folk,5,The Last Great American Dynasty,0.62,0.55,0.01,0.05
+Taylor Swift,Folk,6,This Is Me Trying,0.55,0.6,0.02,0.04
+Taylor Swift,Folk,7,Champagne Problems,0.55,0.65,0.02,0.03
+Taylor Swift,Folk,8,Marjorie,0.5,0.7,0.02,0.03
+Taylor Swift,Folk,9,Seven,0.6,0.65,0.01,0.03
+Taylor Swift,Folk,10,My Tears Ricochet,0.52,0.6,0.02,0.04
+Taylor Swift,Folk,11,Peace,0.48,0.75,0.03,0.03
+Taylor Swift,Folk,12,Hoax,0.45,0.8,0.03,0.03
+Taylor Swift,Folk,13,Epiphany,0.4,0.85,0.04,0.02
+Taylor Swift,Folk,14,Evermore (feat. Bon Iver),0.5,0.7,0.03,0.03
+Taylor Swift,Folk,15,Gold Rush,0.65,0.45,0.01,0.04
+Taylor Swift,Folk,16,Ivy,0.6,0.5,0.01,0.04
+Taylor Swift,Folk,17,Cowboy Like Me,0.55,0.65,0.02,0.03
+Taylor Swift,Folk,18,Coney Island (feat. The National),0.5,0.7,0.02,0.03
+Taylor Swift,Folk,19,Tolerate It,0.48,0.75,0.03,0.03
+Taylor Swift,Folk,20,The Lakes,0.55,0.6,0.02,0.04
+Taylor Swift,Folk,21,Invisible String,0.6,0.55,0.01,0.04
+Taylor Swift,Folk,22,Betty,0.65,0.5,0.01,0.04
+Taylor Swift,Folk,23,Illicit Affairs,0.58,0.6,0.02,0.03
+Taylor Swift,Folk,24,Happiness,0.5,0.7,0.02,0.03
+Taylor Swift,Folk,25,Dorothea,0.62,0.55,0.01,0.04
